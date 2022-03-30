@@ -1,7 +1,0 @@
-C:\Users\hp\source\repos\ConsoleApp5\LessonTask2\bin\Debug\LessonTask2.exe.config
-C:\Users\hp\source\repos\ConsoleApp5\LessonTask2\bin\Debug\LessonTask2.exe
-C:\Users\hp\source\repos\ConsoleApp5\LessonTask2\bin\Debug\LessonTask2.pdb
-C:\Users\hp\source\repos\ConsoleApp5\LessonTask2\obj\Debug\LessonTask2.csprojAssemblyReference.cache
-C:\Users\hp\source\repos\ConsoleApp5\LessonTask2\obj\Debug\LessonTask2.csproj.CoreCompileInputs.cache
-C:\Users\hp\source\repos\ConsoleApp5\LessonTask2\obj\Debug\LessonTask2.exe
-C:\Users\hp\source\repos\ConsoleApp5\LessonTask2\obj\Debug\LessonTask2.pdb
